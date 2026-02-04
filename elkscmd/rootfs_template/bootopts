@@ -1,8 +1,8 @@
 ## /bootopts 1023 max
 #TZ=MDT6
-#LOCALIP=10.0.2.16
-#HOSTNAME=elks16
-#ne0=12,0x300,,0x80
+LOCALIP=10.42.0.16
+HOSTNAME=little-iron
+ne0=3,0x320,,0x92
 #wd0=10,0x300,0xCC00,0x80
 #3c0=11,0x330,,0x80
 #comirq=,,7,10

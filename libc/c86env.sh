@@ -4,7 +4,7 @@
 #
 # Usage: . ./c86env.sh
 
-export C86=/Users/greg/net/8086-toolchain
+export C86=/root/sources/8086-toolchain
 
 add_path () {
 	if [[ ":$PATH:" != *":$1:"* ]]; then
